@@ -1,5 +1,9 @@
 ## Okay? 🤌
 
+## ⭐ Starred Repositories
+[![Starred](https://github-readme-stats.vercel.app/api?username=lucaragaglia&show_icons=true&hide=prs&theme=dracula)](https://github.com/stars/lucaragaglia)
+
+
 <!--
 **lucaragaglia/lucaragaglia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
